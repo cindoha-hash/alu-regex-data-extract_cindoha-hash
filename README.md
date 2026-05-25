@@ -1,7 +1,6 @@
 # ALU Regex Data Extraction & Secure Validation
 
-> **Course:** Data Extraction & Secure Validation Assignment
-> **Author:** INDOHA — Junior Frontend Developer
+> **Author:** INDOHA Guy Clovis — Junior Frontend Developer
 > **Language:** Python 3 (standard library only — no third-party dependencies)
 
 ---
